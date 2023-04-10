@@ -1,3 +1,4 @@
+![logo](Git-Logo-1788C.png)
 # Работа c Git и GitHub
 
 ## 1. Проверка установленого Git 
